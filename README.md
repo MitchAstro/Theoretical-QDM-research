@@ -1,5 +1,5 @@
 # Theoretical-QDM-research
-This repo contains Wolfram Mathematica programs which were used to perform theoretical calculations related to hypothetical Quantum Dark Matter.  Two main areas of research were looked at:
+This repo contains Wolfram Mathematica programs and packages which were used to perform theoretical calculations related to hypothetical Quantum Dark Matter.  Two main areas of research were looked at:
 1) The effect of the quantum eigenvalue _m_ on state to state transition rates of charged particles held in deep gravitational wells
 2) The effect of the central mass on state to state transition rates of charged particles held in deep gravitational wells
 
